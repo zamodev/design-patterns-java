@@ -130,5 +130,4 @@ public class Card {
 *   7. METODO BUILD()
 *       * Este metodo crea el objeto Card final usando el constructor privado.
 *       * Se asegura de que el objeto esté completamente construido antes de ser usado.
-*
 * */
