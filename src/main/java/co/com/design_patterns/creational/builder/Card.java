@@ -28,6 +28,7 @@ public class Card {
         return cardType;
     }
 
+
     public String getCardNumber() {
         return cardNumber;
     }
